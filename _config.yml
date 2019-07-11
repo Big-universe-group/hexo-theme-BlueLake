@@ -73,8 +73,6 @@ comment:
   uyan: ## 友言(uid)
   cloudTie: ## 网易云跟帖(productKey)
   changyan: ## 畅言需在下方配置两个参数，此处不填。
-    appid: cytBiDjsS
-    appkey: 55687378339487a09035e3f1ea682a56
 
 #Share
 baidu_share: false ## 百度分享
