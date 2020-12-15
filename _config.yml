@@ -73,7 +73,7 @@ comment:
   uyan: ## 友言(uid)
   cloudTie: ## 网易云跟帖(productKey)
   changyan: ## 畅言需在下方配置两个参数，此处不填。
-     appid:
+     appid: cyvb7AFiL
      appkey:
 
 #Share
